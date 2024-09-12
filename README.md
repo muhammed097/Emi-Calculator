@@ -65,4 +65,4 @@ This is a simple and customizable **EMI (Equated Monthly Installment) Calculator
 Feel free to use, modify, and integrate this EMI Calculator into your project as needed. 
 
 ### Note:
-Please use this EMI Calculator on your website if you find it helpful. If you need any changes or modifications, don't hesitate to reach out, and I'll be happy to assist you!
+Please use this EMI Calculator on your website if you find it helpful. If you have any questions, suggestions, or need further assistance with the project, please don't hesitate to email me at muhammed@97gmail.com. I'm always happy to help or receive feedback on my work.
